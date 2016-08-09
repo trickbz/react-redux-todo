@@ -1,0 +1,25 @@
+{
+  "name": "react-redux-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trickbz/react-redux-todo.git"
+  },
+  "author": "trickbz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trickbz/react-redux-todo/issues"
+  },
+  "homepage": "https://github.com/trickbz/react-redux-todo#readme",
+  "dependencies": {
+    "react": "^15.3.0",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2",
+    "webpack": "^1.13.1"
+  }
+}
